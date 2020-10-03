@@ -59,6 +59,18 @@ while numero_de_consumidores<0 or numero_de_consumidores>11:
     
 print(tipo_de_carne(numero_de_consumidores))
 
+#Preguntamos 3 platillos nuevos que le gustaría cocinar
+num = []  
+
+print("Ingresa 3 platillos nuevos que te gustaría cocinar")
+for x in range(3):
+    ingresado = input(str("Ingrese platillo:"))  
+    num.append(ingresado)  
+num.sort() 
+print("Estos son los platillos que quisiera cocinar ")
+print(num)  
+
+
 #Este es un ejemplo de el tiempo que se le pregunta al cocinero para prepara carneblanca
 def tiempo(minutos):
     if minutos<= 30:
@@ -78,6 +90,7 @@ while tiempot<0 or tiempot>360:
     print("El tiempo introducido no es valido, vuelva a introducir una cantidad ")
     tiempot = float(input("Introduzca el tiempo en minutos "))
 print(tiempo(tiempot))
+
 
 
 
