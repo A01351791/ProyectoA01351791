@@ -92,6 +92,9 @@ while tiempot<0 or tiempot>360:
 print(tiempo(tiempot))
 
 
+#No encuentro una forma útil de implementar matrices en este programa.
+#No es que no quisiera hacerlo, simplemente no encuentro una idea para implementar matrices 
+
 
 
 
