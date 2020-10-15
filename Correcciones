@@ -1,1 +1,64 @@
-hola
+================================Corrección 1========================================
+
+
+Sub-Competencia:
+        El estilo cumple con las normas y estándares enunciadas en el documento de PEP 8
+        
+Error original:
+        Mis variables iniciales no estaban bajos las normas y estándares del PEP 8:
+        
+        Cr= int(input())
+        Cb= int(input())
+        
+Cambio realizado:
+        Introduje "_" para corregir las variables
+        
+        dias_carne_roja= int(input())
+        dias_carne_blanca= int(input())
+        
+Lineas de código: 
+
+
+=================================Corrección 2==================================
+
+
+Sub-Competencia:
+         Usa una biblioteca de python extra que investiga por su cuenta
+         
+Error original:
+         No introduje ni mencioné ninguna biblioteca de python en el avance 1
+         
+Cambio realizado:
+         Introduje la biblioteca random de python para que el programa seleccione un valor de la lista de guarniciones 
+         
+Lineas de código:
+
+
+================================Corrección 3===================================
+
+
+Sub-Competencia:
+        Explica cómo funciona la biblioteca extra
+        
+Error original:
+        como no había introducido ninguna biblioteca de python en el programa, no lo mencioné en el README.md
+        
+Cambio realizado:
+        Ya introduje la biblioteca random y ya está explicada en el README.md
+        
+Ya se encuentra en el README.md
+
+
+================================Corrección 4=================================
+
+
+
+Sub-Competencia:
+        Usa herramientas de control de versiones 
+        
+Error original:
+        Para cada avance subía un archivo zip nuevo
+        
+Cambio realizado:
+        Hora subí un archivo .py donde introduje el código y cada avance lo borraba y ponía el corregido
+        
